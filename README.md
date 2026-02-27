@@ -14,17 +14,10 @@ SkillSync is an innovative platform designed to connect individuals for skill ex
 
 ## **Technology Stack**  
 ### **Frontend**  
-- React.js  
 - HTML  
 - CSS  
 - JavaScript  
 
-### **Backend**  
-- Node.js  
-- Express.js  
-
-### **Database**  
-- MongoDB  
 
 ### **Authentication**  
 - Firebase Authentication  
@@ -36,8 +29,7 @@ SkillSync is an innovative platform designed to connect individuals for skill ex
 ## **Getting Started**  
 ### **Prerequisites**  
 Ensure you have the following installed:  
-- Node.js  
-- MongoDB  
+
 - Git  
 
 ### **Installation**  
